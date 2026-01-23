@@ -1,6 +1,7 @@
 # stop-animal-holocausts-
 Project Slaughter-Free
 
+The Bio-Legacy repository now supports Avian-Legacy. While Average Minds see chicken as a commodity, Greatest Minds see it as a canvas for the Celestial Poultry profile—meat that is 90% cheaper and contains more Omega-3s than wild-caught salmon
 
 # 🧬 Project Slaughter-Free: The 2026 Open-Source Blueprint
 ### Decentralized Protocols for Low-Cost, Premium Cultivated Beef
