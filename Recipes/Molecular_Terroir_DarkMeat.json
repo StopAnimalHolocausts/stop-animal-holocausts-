@@ -1,0 +1,10 @@
+{
+  "profile_name": "Heritage_Dark_Meat_v1",
+  "target": "Thigh/Drumstick",
+  "biochemical_targets": {
+    "myoglobin_density": "+300% vs Broiler",
+    "lipid_content": "12-15%",
+    "iron_bioavailability": "High"
+  },
+  "overclock_method": "Hypoxic-pulse stimulation (simulates long-duration muscle use)"
+}
